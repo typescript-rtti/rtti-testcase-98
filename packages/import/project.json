@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "@app/import",
+  "version": "0.0.1",
+  "dependencies": {
+    "@app/export": "*"
+  }
+}

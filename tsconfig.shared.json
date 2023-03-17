@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "CommonJS",
+    "plugins": [{ "transform": "typescript-rtti/dist/transformer" }]
+  }
+}
